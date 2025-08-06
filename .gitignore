@@ -1,0 +1,5 @@
+data/raw/
+data/images/
+data/labels/
+models/ 
+runs/
