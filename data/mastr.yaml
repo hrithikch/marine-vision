@@ -1,0 +1,5 @@
+path: data
+train: images/train
+val:   images/val     # if you split out some images for validation
+nc: 1
+names: ['obstacle']

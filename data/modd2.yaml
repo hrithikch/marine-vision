@@ -1,0 +1,5 @@
+path: data
+train: images/train/modd2
+val:   images/train/modd2   # or split out a val folder
+nc:    1
+names: ['boat']

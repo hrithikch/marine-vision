@@ -1,0 +1,9 @@
+name: marine
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - cpuonly
+prefix: C:\Users\nuc-user\.conda\envs\marine
